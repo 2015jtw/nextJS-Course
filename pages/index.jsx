@@ -17,6 +17,9 @@ export default function Home() {
             <Link href="/blogs/blah">Catch All Page</Link>
           </li>
           <li>
+            <Link href="/blogs/hello">Hello Page</Link>
+          </li>
+          <li>
             <Link href="/products/">Product Index Page</Link>
           </li>
           <li>
